@@ -1,0 +1,32 @@
+name: settings
+description: A new Flutter package project.
+version: 0.0.1
+author: "KodingWorks"
+homepage: "https://kodingworks.io"
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  core:
+    path: ../../shared/core
+  component:
+    path: ../../shared/component
+  dependencies:
+    path: ../../shared/dependencies
+  l10n:
+    path: ../../shared/l10n
+  preferences:
+    path: ../../shared/preferences
+  home:
+    path: ../home
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  effective_dart: ^1.3.0
+
+flutter:

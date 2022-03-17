@@ -1,0 +1,15 @@
+include: package:effective_dart/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - lib/server/*.g.dart
+    - test/_data/**
+    - build/**
+    - lib/generated/**
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - template_module/**
+
+linter:
+  rules:
+    public_member_api_docs: false

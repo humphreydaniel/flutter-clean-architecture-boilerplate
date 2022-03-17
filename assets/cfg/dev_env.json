@@ -1,0 +1,8 @@
+{
+    "base_url": "https://example.co.id/v2-dev",
+    "app_name": "App Dev",
+    "encrypt": "AlOp7lBkcFRdJnXFkGcBHwM9I9TJMMas",
+    "version_name": "1",
+    "play_store_app": "https://play.google.com/",
+    "app_store_app": "https://apps.apple.com/"
+}

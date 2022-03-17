@@ -1,0 +1,25 @@
+library dependencies;
+
+export 'package:carousel_slider/carousel_slider.dart';
+export 'package:dartz/dartz.dart' hide State, id;
+export 'package:dio/dio.dart';
+export 'package:dio_firebase_performance/dio_firebase_performance.dart';
+export 'package:equatable/equatable.dart';
+export 'package:firebase_auth/firebase_auth.dart';
+export 'package:firebase_core/firebase_core.dart';
+export 'package:firebase_crashlytics/firebase_crashlytics.dart';
+export 'package:firebase_messaging/firebase_messaging.dart';
+export 'package:firebase_performance/firebase_performance.dart';
+export 'package:firebase_remote_config/firebase_remote_config.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
+export 'package:formz/formz.dart';
+export 'package:get_it/get_it.dart';
+export 'package:google_sign_in/google_sign_in.dart';
+export 'package:hive/hive.dart';
+export 'package:hive/src/hive_impl.dart';
+export 'package:image_picker/image_picker.dart';
+export 'package:intl/intl.dart';
+export 'package:package_info/package_info.dart';
+export 'package:path_provider/path_provider.dart';
+export 'package:rxdart/rxdart.dart';
+export 'package:url_launcher/url_launcher.dart';
